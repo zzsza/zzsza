@@ -4,20 +4,31 @@
 
 </div>
 
+### Machine Learning Engineer
 
-### Hi there 👋
+얼
+마
+나
+길
+게
+되
+나
+테
+스트
+해
+봅
+니
+다
 
-<!--
-**zzsza/zzsza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+너무 길면 Repo가 가려질까?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+어떻게 될지 궁금해서
+
+이렇게
+
+
+타자를 칩니다
+
+뿅
