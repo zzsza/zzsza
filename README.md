@@ -15,8 +15,3 @@
 - Operation Research
 - Leadership, Mentoring
 
-### Social
-- Tech Blog : [https://zzsza.github.io/](https://zzsza.github.io/)
-- Tech Youtube : [https://www.youtube.com/c/kyleschool](https://www.youtube.com/c/kyleschool)
-- Slideshare : [https://www.slideshare.net/zzsza](https://www.slideshare.net/zzsza)
-
