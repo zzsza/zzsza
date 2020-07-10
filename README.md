@@ -9,8 +9,7 @@
 
 
 ### Interest
-- MLOps(Machine Learing Operation)
-- ML/DL Production
+- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Google Cloud Platform(Especially, BigQuery)
 - Operation Research
 - Leadership, Mentoring
