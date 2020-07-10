@@ -7,7 +7,6 @@
 ### Machine Learning Engineer
 - Machine Learing Engineer in Trasportation industry(Car Sharing, Ride Hailing)
 
----
 
 ### Interest
 - MLOps(Machine Learing Operation)
@@ -16,8 +15,6 @@
 - Operation Research
 - Leadership, Mentoring
 
-
----
 
 - Tech Blog : [https://zzsza.github.io/](https://zzsza.github.io/)
 - Tech Youtube : [https://www.youtube.com/c/kyleschool](https://www.youtube.com/c/kyleschool)
