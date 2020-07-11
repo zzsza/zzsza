@@ -6,13 +6,13 @@
 
 ### Machine Learning Engineer
 - Machine Learing Engineer in Trasportation industry(Car Sharing, Ride Hailing)
-
+- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
 
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Google Cloud Platform(Especially, BigQuery)
 - Operation Research
-- Leadership, Mentoring
+- Leadership, Mentoring, Writing, Presentation
 
 <div align=center>
 
