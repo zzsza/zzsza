@@ -7,7 +7,7 @@
   - [초보자를 위한 BigQuery(SQL) 입문(무료)](https://inf.run/p121d)
   - [BigQuery 활용편](https://inf.run/QVgPf)
   - [실용주의 기술 블로그 글쓰기](https://inf.run/LTwvh)
-  - [Claude Code 강의(모닥불 공방)(https://www.modakbul.space/)
+  - [Claude Code 강의(모닥불 공방)](https://www.modakbul.space/)
 
 
 <div align=center>
